@@ -12,51 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lania =====
-[1]Lania       |10:43:55 | 29-10-2026| login OK @laniaardila | score=2270 rank=3533
-[1]Lania       |10:43:55 | 29-10-2026| serverTime=2026-10-29T10:43:55.000Z local=2026-10-29T10:43:55.711Z
+[1]Lania       |10:43:59 | 30-10-2026| login OK @laniaardila | score=2370 rank=3393
+[1]Lania       |10:43:59 | 30-10-2026| serverTime=2026-10-30T10:43:59.000Z local=2026-10-30T10:43:59.058Z
 --> [1]Lania menjalankan: Claim Daily
-[1]Lania       |10:43:57 | 29-10-2026| daily: OK +10 poin score=2280
---> [1]Lania menjalankan: Auto All Tasks (9 pending)
-[1]Lania       |10:43:58 | 29-10-2026| [1/9] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756136115215190
-[1]Lania       |10:43:58 | 29-10-2026| delay 10s...
-[1]Lania       |10:44:10 | 29-10-2026| [2/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756005288779079
-[1]Lania       |10:44:10 | 29-10-2026| delay 10s...
-[1]Lania       |10:44:22 | 29-10-2026| [3/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756009020026107
-[1]Lania       |10:44:22 | 29-10-2026| delay 10s...
-[1]Lania       |10:44:34 | 29-10-2026| [4/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756079433094489
-[1]Lania       |10:44:34 | 29-10-2026| delay 10s...
-[1]Lania       |10:44:46 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756222148898543
-[1]Lania       |10:44:46 | 29-10-2026| delay 10s...
-[1]Lania       |10:44:58 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756301599670266
-[1]Lania       |10:44:58 | 29-10-2026| delay 10s...
-[1]Lania       |10:45:10 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756229605895273
-[1]Lania       |10:45:10 | 29-10-2026| delay 10s...
-[1]Lania       |10:45:22 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/laniaardila/status/2115756478004620394
-[1]Lania       |10:45:22 | 29-10-2026| delay 10s...
-[1]Lania       |10:45:34 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Lania       |10:45:34 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lania       |10:45:36 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/laniaardila/status/2115756393274204504
+[1]Lania       |10:44:00 | 30-10-2026| daily: OK +10 poin score=2380
+--> [1]Lania menjalankan: Auto All Tasks (6 pending)
+[1]Lania       |10:44:01 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laniaardila/status/2116118615983241790
+[1]Lania       |10:44:01 | 30-10-2026| delay 10s...
+[1]Lania       |10:44:13 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laniaardila/status/2116118496503792619
+[1]Lania       |10:44:13 | 30-10-2026| delay 10s...
+[1]Lania       |10:44:25 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laniaardila/status/2116118704232762147
+[1]Lania       |10:44:25 | 30-10-2026| delay 10s...
+[1]Lania       |10:44:37 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laniaardila/status/2116118678199460856
+[1]Lania       |10:44:37 | 30-10-2026| delay 10s...
+[1]Lania       |10:44:48 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/laniaardila/status/2116118522378365894
+[1]Lania       |10:44:48 | 30-10-2026| delay 10s...
+[1]Lania       |10:45:01 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Lania       |10:45:01 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lania       |10:45:02 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/laniaardila/status/2116118698733409921
 --> [1]Lania menjalankan: Watch Anime
-[1]Lania       |10:45:37 | 29-10-2026| watch: semua video sudah completed
+[1]Lania       |10:45:02 | 30-10-2026| watch: semua video sudah completed
 --> [1]Lania menjalankan: Read Article
-[1]Lania       |10:45:38 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Lania       |10:45:39 | 29-10-2026| mint eligibility: {"userId":"2010524536819904512","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laniaardila","status":"submitted","revision":"3fd8ad91-af94-4931-b517-edc6bb8495
-[1]Lania       |10:45:39 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Lania       |10:45:04 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Lania       |10:45:04 | 30-10-2026| mint eligibility: {"userId":"2010524536819904512","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laniaardila","status":"submitted","revision":"3fd8ad91-af94-4931-b517-edc6bb8495
+[1]Lania       |10:45:04 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Lania menjalankan: Quiz Anime
 --> [1]Lania menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lania       |10:45:41 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Lania       |10:45:42 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Lania       |10:45:42 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lania       |10:45:42 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lania       |10:45:06 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Lania       |10:45:06 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Lania       |10:45:06 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lania       |10:45:06 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lania menjalankan: Claim Missions
-[1]Lania       |10:45:42 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Lania       |10:45:42 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Lania       |10:45:42 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Lania       |10:45:07 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Lania       |10:45:07 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Lania       |10:45:07 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lania menjalankan: Check Eligibility
 
 --- eligibility [1]Lania ---
-  @laniaardila | score=2270 rank=3533
-  tasks    [######--------------] 4/13
+  @laniaardila | score=2370 rank=3393
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Lania menjalankan: Read Manga
-[1]Lania       |10:45:47 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Lania       |10:45:10 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Lania menjalankan: Get Gift
-[1]Lania       |10:45:48 | 29-10-2026| gift: 0/5 belum diterima
+[1]Lania       |10:45:10 | 30-10-2026| gift: 1/6 belum diterima
+[1]Lania       |10:45:11 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Lania menjalankan: Setup Profile
-[1]Lania       |10:45:48 | 29-10-2026| profile: bio="https://x.com/laniaardila" fav=kagura rewardAt=1791694891
-[1]Lania       |10:45:48 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Lania       |10:45:14 | 30-10-2026| profile: bio="https://x.com/laniaardila" fav=kagura rewardAt=1791694891
+[1]Lania       |10:45:14 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Lania menjalankan: Bind Wallet
-[1]Lania       |10:45:49 | 29-10-2026| wallet: sudah terikat Gq5p8JjCxZ... (solana)
+[1]Lania       |10:45:14 | 30-10-2026| wallet: sudah terikat Gq5p8JjCxZ... (solana)
 
 == RINGKASAN ==
-- Lania: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Lania: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
