@@ -12,58 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Lania =====
-[1]Lania       |11:54:55 | 05-11-2026| login OK @laniaardila | score=2780 rank=2847
-[1]Lania       |11:54:55 | 05-11-2026| serverTime=2026-11-05T11:54:54.000Z local=2026-11-05T11:54:55.094Z
+[1]Lania       |11:51:28 | 06-11-2026| login OK @laniaardila | score=2810 rank=2836
+[1]Lania       |11:51:28 | 06-11-2026| serverTime=2026-11-06T11:51:28.000Z local=2026-11-06T11:51:28.052Z
 --> [1]Lania menjalankan: Claim Daily
-[1]Lania       |11:54:56 | 05-11-2026| daily: OK +10 poin score=2790
---> [1]Lania menjalankan: Auto All Tasks (2 pending)
-[1]Lania       |11:54:59 | 05-11-2026| [1/2] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/laniaardila/status/2118310544774754843
-[1]Lania       |11:54:59 | 05-11-2026| delay 10s...
-[1]Lania       |11:55:11 | 05-11-2026| [2/2] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/laniaardila/status/2118310563163959269
-[1]Lania       |11:55:11 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Lania       |11:55:12 | 05-11-2026| [1/1] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118160028058399 | proof=https://x.com/laniaardila/status/2118310893283184591
+[1]Lania       |11:51:29 | 06-11-2026| daily: OK +10 poin score=2820
+--> [1]Lania menjalankan: Auto All Tasks (8 pending)
+[1]Lania       |11:51:31 | 06-11-2026| [1/8] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/laniaardila/status/2118672297031997515
+[1]Lania       |11:51:31 | 06-11-2026| delay 10s...
+[1]Lania       |11:51:44 | 06-11-2026| [2/8] 3511b911 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672165337103233
+[1]Lania       |11:51:44 | 06-11-2026| delay 10s...
+[1]Lania       |11:51:56 | 06-11-2026| [3/8] 3c85a813 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672445687688878
+[1]Lania       |11:51:56 | 06-11-2026| delay 10s...
+[1]Lania       |11:52:08 | 06-11-2026| [4/8] 6795f466 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672474834983472
+[1]Lania       |11:52:08 | 06-11-2026| delay 10s...
+[1]Lania       |11:52:19 | 06-11-2026| [5/8] bf0ad10d (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672554852697422
+[1]Lania       |11:52:19 | 06-11-2026| delay 10s...
+[1]Lania       |11:52:32 | 06-11-2026| [6/8] edbd5fee (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672370736512053
+[1]Lania       |11:52:32 | 06-11-2026| delay 10s...
+[1]Lania       |11:52:44 | 06-11-2026| [7/8] 122ee3f4 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/laniaardila/status/2118672537523854806
+[1]Lania       |11:52:44 | 06-11-2026| delay 10s...
+[1]Lania       |11:52:56 | 06-11-2026| [8/8] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211866977502727 | proof=https://x.com/laniaardila/status/2118672718894880767
+[1]Lania       |11:52:56 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Lania       |11:52:58 | 06-11-2026| [1/1] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"191dc55f-69cc-467c-bd80-b357b955b3d4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118669775027273 | proof=https://x.com/laniaardila/status/2118672605944944517
 --> [1]Lania menjalankan: Watch Anime
-[1]Lania       |11:55:12 | 05-11-2026| watch: semua video sudah completed
+[1]Lania       |11:53:00 | 06-11-2026| watch: semua video sudah completed
 --> [1]Lania menjalankan: Read Article
-[1]Lania       |11:55:14 | 05-11-2026| news: 34/34 artikel selesai dibaca
-[1]Lania       |11:55:14 | 05-11-2026| mint eligibility: {"userId":"2010524536819904512","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laniaardila","status":"submitted","revision":"3fd8ad91-af94-4931-b517-edc6bb8495
-[1]Lania       |11:55:14 | 05-11-2026| news: semua artikel sudah dibaca
+[1]Lania       |11:53:02 | 06-11-2026| news: 34/34 artikel selesai dibaca
+[1]Lania       |11:53:04 | 06-11-2026| mint eligibility: {"userId":"2010524536819904512","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@laniaardila","status":"submitted","revision":"3fd8ad91-af94-4931-b517-edc6bb8495
+[1]Lania       |11:53:04 | 06-11-2026| news: semua artikel sudah dibaca
 --> [1]Lania menjalankan: Quiz Anime
 --> [1]Lania menjalankan: Music Missions (realtime, bisa lama!)
-[1]Lania       |11:55:16 | 05-11-2026| music: kedua misi sudah tercapai, stop
-[1]Lania       |11:55:16 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Lania       |11:55:16 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lania       |11:55:16 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lania       |11:53:07 | 06-11-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Lania       |11:53:08 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Lania       |11:53:08 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lania       |11:53:08 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lania menjalankan: Claim Missions
-[1]Lania       |11:55:17 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Lania       |11:55:17 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Lania       |11:55:17 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Lania       |11:53:09 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Lania       |11:53:09 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Lania       |11:53:09 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Lania menjalankan: Check Eligibility
 
 --- eligibility [1]Lania ---
-  @laniaardila | score=2780 rank=2847
-  tasks    [#######-------------] 1/3
+  @laniaardila | score=2810 rank=2836
+  tasks    [##------------------] 1/9
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
-  watch    [####################] 22/17
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
   music    [#################---] 11/13
   artikel  [####################] 34/34
-  mint: requirementsMet=false mintOpen=false discord=true
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Lania menjalankan: Read Manga
-[1]Lania       |11:55:20 | 05-11-2026| manga: 0/13 chapter belum completed
+[1]Lania       |11:53:15 | 06-11-2026| manga: 0/13 chapter belum completed
 --> [1]Lania menjalankan: Get Gift
-[1]Lania       |11:55:21 | 05-11-2026| gift: 3/9 belum diterima
-[1]Lania       |11:55:22 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lania       |11:55:24 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Lania       |11:55:27 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Lania       |11:53:16 | 06-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Lania menjalankan: Setup Profile
-[1]Lania       |11:55:29 | 05-11-2026| profile: bio="https://x.com/laniaardila" fav=kagura rewardAt=1791694891
-[1]Lania       |11:55:29 | 05-11-2026| profile: bonus sudah diklaim, skip
+[1]Lania       |11:53:17 | 06-11-2026| profile: bio="https://x.com/laniaardila" fav=kagura rewardAt=1791694891
+[1]Lania       |11:53:17 | 06-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Lania menjalankan: Bind Wallet
-[1]Lania       |11:55:30 | 05-11-2026| wallet: sudah terikat Gq5p8JjCxZ... (solana)
+[1]Lania       |11:53:18 | 06-11-2026| wallet: sudah terikat Gq5p8JjCxZ... (solana)
 
 == RINGKASAN ==
-- Lania: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Lania: daily=claimed | tasks OK 3/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet bound
